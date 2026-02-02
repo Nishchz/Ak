@@ -92,7 +92,7 @@ public class LinkedList {
         return val;
     }
 
-    // Print Linked List
+    // Print Linked List..
     public void print() {
         Node temp = head;
         while (temp != null) {
