@@ -50,11 +50,9 @@
     <h2>Logic</h2>
     <ul>
       <li>Traverse to node at index <b>size-2</b></li>
-      <li>Set<b>head</b> to <b>head.next</b></li>
-      <li>Decrease size</li>
-      <li><mark><b>Time Complexity->O(1)</li>
+      <li>Set<b>prev.next=null</b></li>
+      <li>Update tail = prev</li>
+      <li><mark><b>Time Complexity->O(n)</li>
     </ul>
-               
   </div>
-        
 </body>
