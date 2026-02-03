@@ -7,12 +7,23 @@
     <h1>📌 Operation Implemented</h1>
       <h2>➕ Add First</h2>
     <p>Adds a new node at the <b> beginning</b> of the LinkedList</p>
-    <h2>Logic</h2>
+    <h2>🧠 Logic</h2>
     <ul>
       <li>Create a new node</li>
       <li>Points<b> newNode.next</b> to current <b>head</b></li>
       <li>Move <b>head</b> to new node</li>
       <li><mark><b>Time complexity-> O(1)</b></mark></li>
+    </ul>
+  </div>
+  <div>
+    <h1>➕Add Last</h1>
+    <p>Adds a new node at the <b>end</b> of the LinkedList</p>
+    <h2>🧠 Logic</h2>
+    <ul>
+      <li>Create a new node</li>
+      <li>Connect <b>tail.next<b> to new node</li>
+      <li>Udate <b> tail</b> to new node</li>
+      <li><mark><b>Time Cimplexity->o(1)</li>
     </ul>
   </div>
 </body>
