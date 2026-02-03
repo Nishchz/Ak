@@ -22,8 +22,8 @@
     <ul>
       <li>Create a new node</li>
       <li>Connect <b>tail.next<b> to new node</li>
-      <li>Udate <b> tail</b> to new node</li>
-      <li><mark><b>Time Cimplexity->o(1)</li>
+      <li>Update <b> tail</b> to new node</li>
+      <li><mark><b>Time Complexity->o(1)</li>
     </ul>
   </div>
 </body>
