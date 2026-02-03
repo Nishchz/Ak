@@ -26,4 +26,24 @@
       <li><mark><b>Time Complexity->o(1)</li>
     </ul>
   </div>
+  <div>
+    <h1>⚔️ Remove First</h1> 
+    <p>Remove the <b>first node (head) from the LinkedList</b></p>
+    <ul>
+      <li>Edge case handled </li>
+      <li>If list is empty-> print message</li>
+      <li>If only one node exists -> set <b>head</b> and <b>tail</b> to <b>null</b></li>
+    </ul>
+  </div>
+  <div>
+    <h2>Logic</h2>
+    <ul>
+      <li>Store <b>head data</b></li>
+      <li>Move <b>head</b> to <b>head.next</b></li>
+      <li>Decrease size</li>
+      <li><mark><b>Time Complexity->O(1)</li>
+    </ul>
+               
+  </div>
+        
 </body>
